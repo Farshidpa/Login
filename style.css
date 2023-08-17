@@ -1,0 +1,84 @@
+#container{
+    padding: 2.5%;
+    background: #eee;
+    margin: 10px;
+    border-radius: 6px;
+    background-color: #1c388d;
+}
+#title{
+    font-size: 15px;
+    font-family: '\f04c';
+    font-weight: bolder;
+    text-align: center;
+    padding: auto;
+    margin-bottom: 20px;
+    background: #1c388d;
+    color: azure;
+    border-radius: 3px;
+    box-shadow: inset;
+    
+}
+#f1{
+    float: left;
+    padding: 1%;
+    background-color: #1c388d;
+    margin-left: 10px;
+    margin: 10px;
+    border-radius: 7px;
+}
+#photo{
+    width: auto;
+    height: 470px;
+    border-radius: 1%;
+    border-color:#fff;
+}
+#body-page{
+    padding: 6%;
+    background: #fff;
+    margin: 10px;
+    border-radius: 6px;
+    background-color:  #1c388d;
+    box-sizing: border-box;
+    width: 620px;
+    height: 500px;
+    margin-left: 10px;
+    float: right;
+     
+}
+#user{
+    margin: 20px;
+    color: #fff;
+    border-radius: 8px;
+    
+}
+#form{
+    font-family:  '\ea3d';
+    margin: 30px;
+    height: 250px;
+   
+}
+#dropdown{
+    float: left;
+    padding-left: 1%;
+    border-radius: solid #fff;
+}
+#home{
+    background: #fff;
+    width: 140px;
+    border-color: #fff;
+    color: #1c388d;
+}
+#btn1, #btn2, #btn3{
+   width: 140px;
+}
+#container .dropdown-menu {
+    border-color: #fff;
+    float: left;
+    font-size: 14px;
+    background: #1c388d;
+    color: azure;
+    font-family: '\f04c';
+    width: 280px;
+    border-radius: 7px ;
+    
+}

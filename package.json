@@ -1,0 +1,15 @@
+{
+  "name": "javaprojekt",
+  "version": "1.0.0",
+  "description": "bootstrap",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "font-awesome": "^4.7.0"
+  }
+}
